@@ -406,7 +406,6 @@
 				<Item Name="While condition.vi" Type="VI" URL="../VIs/Low level/General/While condition.vi"/>
 			</Item>
 			<Item Name="Header, Footer and Watermark Low level" Type="Folder">
-				<Item Name="Add File Name on PDF.vi" Type="VI" URL="../VIs/Low level/Header, Footer and Watermark Low level/Add File Name on PDF.vi"/>
 				<Item Name="Append Header, Footer and Watermark.vi" Type="VI" URL="../VIs/Low level/Header, Footer and Watermark Low level/Append Header, Footer and Watermark.vi"/>
 				<Item Name="Append Image HF.vi" Type="VI" URL="../VIs/Low level/Header, Footer and Watermark Low level/Append Image HF.vi"/>
 				<Item Name="Append Page number HF.vi" Type="VI" URL="../VIs/Low level/Header, Footer and Watermark Low level/Append Page number HF.vi"/>

@@ -40,15 +40,12 @@
 			<Item Name="Advapi32.dll" Type="Document" URL="Advapi32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Header Footer [ ] V2.ctl" Type="VI" URL="../LV Class/Header and Footer Class/VIs/Controls/Header Footer [ ] V2.ctl"/>
-			<Item Name="Header Footer cluster V2.ctl" Type="VI" URL="../LV Class/Header and Footer Class/VIs/Controls/Header Footer cluster V2.ctl"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Verify Font Name, Encoding and Size.vi" Type="VI" URL="../LV Class/Fonts Class/VIs/Verify Font Name, Encoding and Size.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Exaprom PDF" Type="Source Distribution">
